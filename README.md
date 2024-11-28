@@ -1,6 +1,6 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi there!
 ![profile count](https://komarev.com/ghpvc/?username=thomaslrpn&color=red)&nbsp;
-[![GitHub thomaslrpn](https://img.shields.io/github/followers/mathisdev7?label=follow&style=social)](https://github.com/thomaslrpn)&nbsp;
+[![GitHub thomaslrpn](https://img.shields.io/github/followers/thomaslrpn?label=follow&style=social)](https://github.com/thomaslrpn)&nbsp;
 # 👨🏻‍💻 Information(s) sur moi:
 
 💡 &nbsp;Je suis Développeur Junior en formation au [CFAI](https://www.pole-formation-lda.fr).\
