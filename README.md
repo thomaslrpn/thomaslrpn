@@ -5,8 +5,6 @@
 
 💡 &nbsp;Je suis Développeur Junior en formation au [CFAI](https://www.pole-formation-lda.fr).\
 🌱 &nbsp;Je suis en formation pour découvrir le monde du Web.\
-✍️ &nbsp;J'ai des passions, comme jouer au jeux-videos, l'informatique, sortir ...\
-✉️ &nbsp; Vous pouvez me contacter par mail, (à venir)
 
 
 # 🛠 Technologies:
@@ -19,14 +17,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-# 📊 GitHub Statistiques:
-![](https://github-readme-stats.vercel.app/api?username=thomaslrpn\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thomaslrpn&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslrpn&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-# 📫 Pour me joindre:
-
-
-<a href="mailto:"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
